@@ -4,3 +4,4 @@
 | #  | Title     | Description                |
 | :-------- | :------- | :------------------------- |
 | 1 | [Hello World](https://exercism.org/tracks/common-lisp/exercises/hello-world)   | The classical introductory exercise. Just say "Hello, World!". |
+| 2 | [Socks And Sexprs ](https://exercism.org/tracks/common-lisp/exercises/socks-and-sexprs)   | Write functions to determining whether a parameter is an atom, cons , symbol or keyword. |
